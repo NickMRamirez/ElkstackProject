@@ -7,10 +7,10 @@ Usage
 =====
 * Install Vagrant and ChefDK
 * Install the Vagrant-Berkshelf plugin via:
-     ```ruby
+     ```
      vagrant plugin install vagrant-berkshelf
      ```
 * Initialize with:
-     ```ruby
+     ```
      vagrant up
      ```
