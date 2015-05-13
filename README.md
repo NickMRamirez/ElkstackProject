@@ -5,9 +5,8 @@ A quick, little code spike to try out using the [elkstack cookbook](https://gith
 
 Usage
 =====
-* Install Vagrant
+* Install Vagrant and ChefDK
 * Install the Vagrant-Berkshelf plugin via:
-    vagrant plugin install vagrant-berkshelf
+     vagrant plugin install vagrant-berkshelf
 * Initialize with:
-    vagrant up
-    
+     vagrant up
